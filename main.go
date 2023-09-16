@@ -10,7 +10,6 @@ func main() {
 	var oneHundred int = 0
 	var total int
 	fmt.Scan(&total)
-	fmt.Print(total, " ")
 
 	if total >= 5000 {
 		for fiveThousand = 0; total >= 5000; {
